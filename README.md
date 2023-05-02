@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @chate-hub
-- 👀 I’m interested in web development and everything FrontEnd. 
-- 🌱 I’m currently learning CS50 Python with Javascript, and hope to jump on React
-- 💞️ I’m looking to collaborate on multiple Web Apps 
-- 📫 How to reach me on whatsapp (+260969714373) or LinkedIn: https://www.linkedin.com/in/chate-chilima-0b646a149/
+- 👀 I’m interested in web development and everything Fullstack Software development
+- 🌱 I’m currently completing my Bachelors in ICT with Software Engineering. 
+- 💞️ I’m working on Django based backend apps with React Frontend. 
+- 📫 Reach me on whatsapp (+260969714373) or LinkedIn: https://www.linkedin.com/in/chate-chilima-0b646a149/ or my website chatebchilima.tk
+- 
 
 <!---
 chate-hub/chate-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
