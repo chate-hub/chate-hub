@@ -18,8 +18,8 @@ Recently, I've been exploring **LLM-powered applications and retrieval pipelines
 
 💻 Current Focus
 - Building full-stack applications that are scalable and maintainable  
-- Strengthening AI-assisted search and retrieval workflows  
-- Designing modular backend architectures and secure authentication flows  
+- Cross-platform mobile app development 
+- Designing modular backend architectures and secure authentication flows for both Mobile and Web apps 
 
 ---
 
