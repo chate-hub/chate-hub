@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Chate B. Chilima  
+### Hi, I'm Chate B. Chilima  
 
 I am a **Full-Stack Software Developer** with strong backend experience in **Python (Django / FastAPI)** and working knowledge of **React** for building user-facing applications. I enjoy designing clean API architectures, role-based authentication, and data-driven systems.  
 
@@ -6,7 +6,7 @@ Recently, I've been exploring **LLM-powered applications and retrieval pipelines
 
 ---
 
-🔧 Core Skills & Tools
+Core Skills & Tools
 - **Languages:** Python, JavaScript, TypeScript, SQL  
 - **Backend:** Django, FastAPI  
 - **Frontend:** React, Tailwind  
@@ -16,15 +16,15 @@ Recently, I've been exploring **LLM-powered applications and retrieval pipelines
 
 ---
 
-💻 Current Focus
+Current Focus
 - Building full-stack applications that are scalable and maintainable  
 - Cross-platform mobile app development 
 - Designing modular backend architectures and secure authentication flows for both Mobile and Web apps 
 
 ---
 
-🌍 Connect With Me
+Connect With Me
 - WhatsApp: **+260 969 714 373**  
 - LinkedIn: https://www.linkedin.com/in/chate-chilima-0b646a149/  
-- Portfolio: https://chatebchilima.000webhostapp.com/
+- Portfolio: https://mwangaza-labs-builder-ogzoa3qzlq790thh.hostingersite.com/  
 
