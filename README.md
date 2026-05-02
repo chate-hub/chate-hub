@@ -1,6 +1,6 @@
 ### Hi, I'm Chate B. Chilima  
 
-I am a **Full-Stack Software Developer** with strong backend experience in **Python (Django / FastAPI)** and working knowledge of **React** for building user-facing applications. I enjoy designing clean API architectures, role-based authentication, and data-driven systems.  
+I am a **Software Engineer** with strong backend experience in **Python (Django / FastAPI)** and working knowledge of **React** for building user-facing applications. I enjoy designing clean API architectures, role-based authentication, and data-driven systems.  
 
 Recently, I've been exploring **LLM-powered applications and retrieval pipelines** using **LangChain** to understand how AI can be integrated into real-world systems.
 
