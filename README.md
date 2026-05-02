@@ -26,5 +26,5 @@ Current Focus
 Connect With Me
 - WhatsApp: **+260 969 714 373**  
 - LinkedIn: https://www.linkedin.com/in/chate-chilima-0b646a149/  
-- Portfolio: https://mwangaza-labs-builder-ogzoa3qzlq790thh.hostingersite.com/  
+- Portfolio: https://chate.willowsadventures.store/
 
